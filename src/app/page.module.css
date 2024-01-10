@@ -6,7 +6,15 @@
   padding: 6rem;
   min-height: 100vh;
 }
-
+.clienteCard{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+  padding: 20px;
+  border: dotted 1px red;
+}
 .description {
   display: inherit;
   justify-content: inherit;
